@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title></title>
+  <link rel="stylesheet" href="./cssfiles/styles.css">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat&family=Roboto:ital,wght@1,700&family=Sacramento&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+</head>
+
+<body>
+  <div class="train_frame"></div>
+  <%if (results.length != 0) {%>
+    <h1 class="cab list_headings">Available Trians list</h1>
+  <% }else{ %>
+    <h1 class="cab list_headings">Please pick a taxi to travel</h1>
+  <% } %>
+  <% results.forEach(result=> { %>
+    <div class="train_div_properties">
+      <h1 class="display-4"><%=result.train_name %></h1>
+      <p class="lead"><b>Starting_destination:</b> <%= result.starting_state%></p>
+      <p class="lead"><b>Ending destination:</b> <%= result.ending_state%> </p>
+      <p class="lead"><b>Duration:</b> <%= result.duration%> </p>
+      <p class="lead"><b>Train_no:</b> <%= result.train_no%> </p>
+      <a class="btn btn-dark btn-lg" href="mailto:saikumardande2001@gmail.com" role="button">Book now</a>
+    </div>
+  <% }) %>
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+</body>
+
+</html>

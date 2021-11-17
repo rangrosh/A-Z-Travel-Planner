@@ -1,0 +1,88 @@
+hotel_number,hotel_name,average_user_review,phone_number,cities_City_Name
+1,amar mahal,5,7223934362,orchha
+2,hotel bundelkhand riverside,4,7680252621,orchha
+3,betwa retreat,4,7680252618,orchha
+4,the pavillion hotel,4,5942236178,nainital
+5,alka the lake side hotel,3,5942235220,nainital
+6,the naini retreat,5,5942234578,nainital
+7,shinning star resort,3,2248962268,khajjiar
+8,zostel dalhousie,4,2248962378,khajjiar
+9,hotel country resort,2,2248984268,khajjiar
+10,the pride hotel,4,3344073960,kolkata
+11,hyatt regency ,5,3344373900,kolkata
+12,the peerless inn,5,3344003900,kolkata
+13,the fern residency,3,1835025555,amritsar
+14,holiday inn amritsar,5,1835064355,amritsar
+15,ramada amritsar,5,1835735593,amritsar
+16,7 sisters falls view inn,4,7085177777,cherrapunji
+17,jiva resort ,2,7083176777,cherrapunji
+18,la kupar inn,5,7645172577,cherrapunji
+19,hotel indie stays,4,2268606860,mumbai
+20,zostel ,3,2257366860,mumbai
+21,trinity house,2,2268693260,mumbai
+22,ellora heritage resort,3,2437244446,ajanta ellora 
+23,hotel kailas ,4,2435394446,ajanta ellora 
+24,vivanta aurangabad,2,2437269246,ajanta ellora 
+25,miramar residency,4,8322464154,panaji
+26,ocean suite,4,8322464672,panaji
+27,vivanta goa,5,8322463554,panaji
+28,gopinivas grand,4,4652246262,kanyakumari
+29,sivamurugan kanyakumari,4,4657846262,kanyakumari
+30,hotel sea view,4,4356246262,kanyakumari
+31,the mansion 1907,3,9880662828,mysore
+32,zostel,2,9886837528,mysore
+33,hotel ruchi the prince,3,9880663964,mysore
+34,taj mahal palace,5,8340403080,ranchi
+35,four seasons,3,8541088444,ranchi
+36,zostel,5,9155816219,ranchi
+37,jw marriot,5,4428368333,chennai
+38,hotel nest n rest,4,4424994101,chennai
+39,goldfinch hotel,2,4422200000,chennai
+40,waterstones hotel,5,7389910992,indore
+41,the lalit,4,7000361192,indore
+42,radisson,3,7314069216,indore
+43,lakeside chalet,2,7554271623,bhopal
+44,soffitel,5,7554272290,bhopal
+45,the orchin hotel,4,7554233342,bhopal
+46,golden chariot,4,9934304634,patna
+47,kohinoor continental,4,6122224804,patna
+48,novotel,3,9264455504,patna
+49,grand hyatt,5,7926643839,ahmedabad
+50,the leela,3,8346892923,ahmedabad
+51,hotel sunshine airport,4,9843972922,ahmedabad
+52,lalco residency,2,9487278902,coimbatore
+53,sun n sand hotel,4,9475829022,coimbatore
+54,aureole hotel,5,9437289482,coimbatore
+55,hotel divine,4,9347289029,bangalore
+56,the mirador,3,2948529428,bangalore
+57,keys select hotel,2,9472809824,bangalore
+58,giner hotel,3,9847529822,mangalore
+59,zara dormitory,4,9842872457,mangalore
+60,hotel nice stay,2,4987528932,mangalore
+61,hotel maharana inn,4,5478482909,hyderabad
+62,hotel grandeur,4,9842787428,hyderabad
+63,hotel grand skylight,5,9882849722,hyderabad
+64,fair host lodge,4,9845287282,jaipur
+65,hotel aksa,4,9188290924,jaipur
+66,basti backpackers hotel,4,9758963064,jaipur
+67,hotel luxury stay,3,9387520222,lucknow
+68,hotel sun international,5,8989560202,lucknow
+69,hotel le roi,2,9587290252,lucknow
+70,Uday Suites - The Garden Hotel,4,4712504333,trivandrum
+71,Akhil Classic,4,4712575773,trivandrum
+72,Safire Residency,4,4712325686,trivandrum
+73,Grand Plaza Munnar,4,9746470118,munnar
+74,Green Trees Munnar,4,4865263914,munnar
+75,Elysium Gardens Hill Resorts,4,4865230510,munnar
+76,Hotel Taj Resorts,4,7830050001,agra
+77,The Oberoi Amarvilas,5,5622231515,agra
+78,Hotel Clarks Shiraz,4,5622226121,agra
+79,Chandrodaya Homestay,4,9448895978,coorg
+80,Gowri Nivas,5,9448493833,coorg
+81,Karkera Comforts,5,9916789998,coorg
+82,Meena Bagh,4,9910092854,shimla
+83,Rocky Knob,4,7807852003,shimla
+84,Hotel Pinview,4,9816623262,shimla
+85,Safarnam,4,8303292594,varanasi
+86,Taj Ganges,5,5426660001,varanasi
+87,Rivera Palace,4,9519210888,varanasi

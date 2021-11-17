@@ -1,0 +1,273 @@
+trains_train_id,train_no,train_name
+1,12592,Gorakhpur Express
+2,15101,Jansadharan Express
+3,22455,Sainagar Shiridi Kalka Superfast Express
+4,22458,AADR-NED Superfast Express
+5,22911,Shipra Express
+6,22912,Shipra Express
+7,12715,Sachkhand Express
+8,11078,Jhelum Express
+9,1665,HBJ Agartala Special
+10,15646,GHY LTT Express
+11,12533,Pushpak Express
+12,12167,Ltt Bsb Superfast Express
+13,12618,Mngla Lksdp Express
+14,12617,Mangala Ldweep
+15,12622,Tamil Nadu Express
+16,12621,Tamil Nadu Express
+17,22692,Banglore Rajdhani Express
+18,22691,Rajdhani Express
+19,16318,Himsagar Express
+20,12625,Kerala Express
+21,12592,Gorakhpur Express
+22,15101,Jansadharan Express
+23,12541,Gkp Ltt Superfast Express
+24,12534,Pushpak Express
+25,15102,Mumbai CSMT Express
+26,15101,Jansadharan Express
+27,11464,JBP Somnath Express
+28,19413,Kolkata Express
+29,12724,Telangana Express
+30,12720,HYB JP Superfast Express
+31,18243,Bsp Bgkt Express
+32,14813,Jodhpur Bhopal Express
+33,13151,Jammu Tawi Express
+34,12326,Nldm Koaa Express
+35,13020,Bagh Express
+36,12369,Kumbha Express
+37,14649,Surya Yamuna Express
+38,13152,Sealdah Express
+39,12328,Upasana Express
+40,12423,Dbrt Rajdhani Express
+41,19020,Dehradun Express
+42,22659,Dehradun Express
+43,22660,Ddn Kcvl Superfast Express
+44,22659,Dehradun Express
+45,12688,Ddn Mdu Superfast Express
+46,12687,Dehradun Express
+47,12688,Ddn Mdu Superfast Express
+48,12608,Lalbagh Express
+49,22660,Ddn Kcvl Superfast Express
+50,22659,Dehradun Express
+51,14266,Ddn Bsb Express
+52,12327,Upasana Express
+53,13010,Doon Express
+54,12366,Ranchi Patna PNBE Janshatabdi Express
+55,15006,Ddn Gkp Express
+56,12565,Bihar Sampark Kranti Express
+57,19566,Uttaranchal Express
+58,12479,Suryanagari SF Express
+59,12688,Ddn Mdu Superfast Express
+60,12687,Dehradun Express
+61,19566,Uttaranchal Express
+62,19565,Uttaranchal Express
+63,12326,Nldm Koaa Express
+64,12325,Koaa Nldm Express
+65,12920,Malwa Express
+66,12919,Malwa Express
+67,12424,Dbrt Rajdhani Express
+68,12423,Dbrt Rajdhani Express
+69,12952,Rajdhani Express
+70,12951,rajdhani express
+71,12218,Kerla s kranti
+72,12217,Sampark Kranthi
+73,12434,Chennai Rajdhani
+74,12435,Dbrt Rajdhani Express
+75,12628,Karnataka Express
+76,12629,Sampark Kranthi
+77,12218,Kerla s kranti
+78,12217,Sampark Kranthi
+79,15531,Shc-asr Jsadharan
+80,15530,Anvt Shc Jansadharan
+81,12874,Jharkhand express
+82,12873,Jharkhand S J E
+83,13008,U A Toofan exp
+84,13007,U Abhatoofan
+85,12215,Dee bdts G Rath
+86,12214,Ypr Duronto Exp
+87,12724,Andhra Pradesh Exp
+88,12723,Andhra Pradesh Exp
+89,12414,Jammu Aii Express
+90,12413,Aii Jat Express
+91,12311,Hwh Dli Klk Mai
+92,12312,Kalka Mail Express
+93,15959,Kamrup Express
+94,15960,Kamrup Express
+95,12870,Hwh Cstm Express
+96,12869,Howrah Superfast Express
+97,12253,Anga Express
+98,12254,Anga Express
+99,12841,Coromandal Express
+100,12840,Howrah Mail
+101,12245,Hwh Ypr Duronto
+102,12246,Duronto Express
+103,22642,Shm Tvc Superfast Express
+104,22641,Shalimar Express
+105,12325,Koaa Nldm Express
+106,12326,Nldm Koaa Express
+107,12019,Shatabdi Express
+108,12020,Shatabdi Express
+109,13133,Sdah Bsb Express
+110,13132,Anvt Koaa Express
+111,12906,Hwh Pbr Okhaex
+112,12905,Pbr Howrah Express
+113,12514,Ghy Sc Express
+114,12513,Sc Ghy Express
+115,12496,Pratap Express
+116,12495,Bkn Koaa Superfast
+117,15904,Cdg Dbrg Express
+118,15903,Dbrg Cdg Express
+119,12450,Goa Smprk Exp
+120,12449,Goa Smprk Exp
+121,12450,Goa Smprk Exp
+122,12449,Goa Smprk Exp
+123,22688,Cdg Mdu Superfast Exp
+124,22687,Sre-cdg Link Exp
+125,22686,Ypr SKranti Exp
+126,22685,Ypr SKranti Exp
+127,12218,Kerla s Kranti
+128,12217,Sampark Kranthi
+129,12232,Cdg Lko Exp
+130,12231,Cdg Lko Exp
+131,12878,Ndls Rnc G Rath
+132,12877,Rnc Garib Rath
+133,13008,Rnc Garib Rath
+134,13007,U Abhatoofan Exp
+135,19718,Cdg Jp Intercity
+136,19717,Jp Cdg Intercity
+137,22706,Hyderabad Express
+138,22705,Ludhiana Express
+139,19718,CDG JP Intercit
+140,19613,Punjab Express
+141,15646,GHY LTT Express
+142,97209,Mumbai CSMT Dombivli Express
+143,10104,Mandovi Express
+144,12520,Kyq Ltt Ac Express
+145,12552,Kyq Ypr Ac Express
+146,12507,Guwahati Express
+147,12510,Ght Sbc Express
+148,12509,Guwahati Express
+149,12508,SCL TVC Express
+150,12507,Guwahati Express
+151,15910,Avadh Assam Express
+152,15909,Abadh Assam Express
+153,15662,Kyq Rnc Express
+154,15661,Rnc Kyq Express
+155,15909,Abadh Assam Express
+156,15910,Avadh Assam Express
+157,15636,Dwarka Express
+158,15667,Kamakhya Express
+159,47124,HYB-LPI Express
+160,12514,Ghy Sc Express
+161,15632,GHY BME BKN Express
+162,15631,BME GHY Express
+163,11085,Mao Doubledeckr Express
+164,11086,Madgaon Mumbai LTT AC Double Decker Express
+165,11073,LTT Chennai Express
+166,11074,Chennai Ltt Express
+167,11013,Coimbatore Express
+168,11014,Lokmanya Tt Express
+169,16346,Netravathi Express
+170,16345,Netravathi Express
+171,12107,Lucknow Superfast Express
+172,12108,Ljn Ltt Express
+173,18610,Ranchi Express
+174,18609,Rnc Ltt Express
+175,11059,Chhapra Express
+176,11060,Cpr Ltt Express
+177,12951,Mumbai Rajdhani Express
+178,12479,Suryanagari Superfast Express
+179,18520,Ltt Vskp Express
+180,12702,Hussainsagar Express
+181,12955,Bct Jp Express
+182,12215,Dee Bdts G Rath
+183,17312,Vsg Chennai Express
+184,17311,Mas vasco Express
+185,17310,Ypr Biweekly Express
+186,17309,Ypr Vasco Express
+187,22634,Nzm Tvc Superfast Express
+188,22633,Nizamuddin Express
+189,12617,Mangala ldweep
+190,12618,Mngla lksdp Express
+191,12741,Vsg Patna Express
+192,12812,Hte ltt Super
+193,12741,Vsg Patna Express
+194,12742,Pnbe Vsg Express
+195,16312,Bikaner Express
+196,16311,Bkn Kcvl Express
+197,11304,Kop Hyb Express
+198,11303,Hyb Kop Express
+199,12977,Maru Sagar Express
+200,12978,Maru Sagar Express
+201,22625,Sbc Double Deck
+202,22626,Mas Double Deck
+203,12623,Trivandrum Mail
+204,12624,Chennai Mail
+205,12512,Raptisagar Express
+206,12511,Rapti Sagar Express
+207,13352,Dhanbad Express
+208,13351,Dhn Alappuzha E
+209,12522,Raptisagar Express
+210,55116,Sv Cpr Passenger 
+211,12656,Navajivan Express
+212,12655,Navjeevan Express
+213,12603,Hyderabad Express
+214,12604,Chennai Express
+215,22631,Madurai Bikaner Anuvrat Express
+216,12968,Jp Madras Express
+217,16526,Kanyakumari Express
+218,16525,Bangalore Express
+219,12592,Gorakhpur Express
+220,22684,Lko Ypr Superfast
+221,18638,Ypr Hatia Express
+222,18637,Hte Ypr Express
+223,17316,Vlnk Vsg Express
+224,12742,Pnbe Vsg Expres 
+225,16508,Jodhpur Express
+226,16533,Bgkt Sbc Express
+227,22691,Rajdhani Express
+228,12785,Bangalore Express
+229,12975,Jaipur Express
+230,12976,Jp Mysore Express
+231,12512,Raptisagar Express
+232,12511,Rapti Sagar Express
+233,64207,Lucknow Kanpur MEMU 
+234,13351,Dhn Alappuzha E 
+235,16525,Bangalore Express 
+236,12742,Pnbe Vsg Expres 
+237,19423,GIMB Humsafar
+238,16333,Veraval Trivandrum VRL TVC Express
+239,17229,Sabari Express
+240,17230,Sabari Express
+241,22633,Nizamuddin Express
+242,12432,Trivndrm Rajdhani
+243,12876,Neelachal Exp
+244,12875,Puri New Delhi Neelachal Exp
+245,15910,Avadh Assam Express
+246,12553,Vaishali Exp
+247,19168,Sabarmati Exp
+248,19167,Sabarmati Exp
+249,12592,Gorakhpur Express
+250,12591,Gkp Ypr Exp
+251,14853,Marudhar Exp
+252,19715,Jp Ljn Exp
+253,15027,Maurya Exp
+254,15028,Maurya Exp
+255,13425,Mldt St Exp
+256,13426,St Malda Town Exp
+257,7006,Cct Hyb Exp
+258,7005,Hyb Rxl Spl Exp
+259,18631,Rnc Garibnwaz Exp
+260,18632,Rnc Garib Nawaz Exp
+261,15269,Mfp-Adi Jansadharan Exp
+262,15270,Adi-Mfp Jansadharan Exp
+263,12521,Rapti Sagar Express
+264,12522,Rapti Sagar Express
+265,15269,Mfp-Adi Jansadharan Exp
+266,15270,Adi-Mfp Jansadharan Exp
+267,17017,Rjt Sc Exp
+268,17018,Rajkot Exp
+269,12957,Swarna Jayanthi Rajdhani
+270,12916,Ashram Exp
+271,12975,Jaipur Express
+272,12976,jp Mysore Express

@@ -1,0 +1,134 @@
+idtourist_attraction,attraction_name,average_user_review_tourist attractions,opening_time,closing_time,cities_City_Name
+1,raja mahal,3,10:00:00,17:00:00,orchha
+2,chaturbhuj temple,5,8:00:00,17:00:00,orchha
+3,orchha fort,4,8:00:00,22:00:00,orchha
+4,shri ram raja mandir,5,8:00:00,22:00:00,orchha
+5,nainital lake,4,7:00:00,18:00:00,nainital
+6,snow view,5,6:00:00,6:00:00,nainital
+7,naina devi temple,5,8:00:00,22:00:00,nainital
+8,eco cave garden,3,8:00:00,22:00:00,nainital
+9,kalatop wildlife sanctuary,4,10:00:00,17:00:00,khajjiar
+10,khajjiar lake ,2,5:00:00,23:00:00,khajjiar
+11,pohlani mata temple,5,6:00:00,22:00:00,khajjiar
+12,chamba town,2,11:00:00,19:00:00,khajjiar
+13,victorian memorial,5,9:30:00,21:00:00,kolkata
+14,howrah bridge,3,0:00:00,23:59:59,kolkata
+15,marble palace mansion ,4,10:00:00,18:00:00,kolkata
+16,indian museum,3,10:00:00,18:00:00,kolkata
+17,belur math,2,6:00:00,22:00:00,kolkata
+18,golden temple ,5,9:30:00,18:00:00,amritsar
+19,durgiana temple,5,6:00:00,18:00:00,amritsar
+20,hall bazaar,4,10:00:00,18:00:00,amritsar
+21,akal takht,3,10:00:00,19:00:00,amritsar
+22,guru ke mahal,4,8:30:00,17:30:00,amritsar
+23,wagah border,2,7:00:00,16:00:00,amritsar
+24,nohkalikai waterfalls,4,7:00:00,17:00:00,cherrapunji
+25,kynrem falls ,4,7:00:00,17:00:00,cherrapunji
+26,mawlynnong ,3,10:00:00,17:30:00,cherrapunji
+27,dainthlen falls,4,7:00:00,17:00:00,cherrapunji
+28,gateway of india ,5,10:00:00,18:00:00,mumbai
+29,marine drive,5,0:00:00,23:59:59,mumbai
+30,kanheri caves,3,8:30:00,17:30:00,mumbai
+31,film city,4,10:00:00,19:00:00,mumbai
+32,elephanta island,2,7:00:00,17:00:00,mumbai
+33,caves,4,10:00:00,17:00:00,ajanta ellora
+34,buddhist temples,2,7:00:00,23:00:00,ajanta ellora
+35,jain temples,4,7:00:00,23:00:00,ajanta ellora
+36,shive temple,3,7:00:00,23:00:00,ajanta ellora
+37,beaches,5,8:00:00,18:00:00,panaji
+38,forts,2,7:30:00,23:00:00,panaji
+39,waterfall,4,11:00:00,17:00:00,panaji
+40,museum,1,10:00:00,17:00:00,panaji
+41,vivekananda rock memorial,4,10:30:00,18:00:00,kanyakumari
+42,kanyakumari beach,5,8:00:00,18:00:00,kanyakumari
+43,thirparappu falls ,2,11:00:00,17:30:00,kanyakumari
+44,thiruvallur statue,4,7:00:00,23:00:00,kanyakumari
+45,mysore palace,4,10:00:00,18:00:00,mysore
+46,somnathapura temple,5,6:00:00,22:00:00,mysore
+47,brindavan gardens ,2,10:30:00,18:00:00,mysore
+48,mysore zoo,4,11:00:00,18:00:00,mysore
+49,Neyyar Wildlife Sanctuary,3,9:00:00,16:00:00,trivandrum
+50,Trivandrum Observatory,4,9:00:00,17:00:00,trivandrum
+51,Happy Land Water Theme Park,3,10:30:00,18:00:00,trivandrum
+52,Sree Padmanabhaswamy Temple,4,8:00:00,19:00:00,trivandrum
+53,Poovar island,4,0:00:00,23:59:59,trivandrum
+54,Napier museum,3,10:00:00,17:00:00,trivandrum
+55,Echo point,5,6:00:00,19:30:00,munnar
+56,Top station,5,6:00:00,18:00:00,munnar
+57,Eravikulam National Park,4,7:30:00,16:30:00,munnar
+58,Kundala Dam Lake,4,9:00:00,17:00:00,munnar
+59,Marayoor,4,6:00:00,18:00:00,munnar
+60,Taj Mahal,5,6:00:00,18:00:00,agra
+61,Fatehpur Sikri,5,6:00:00,18:00:00,agra
+62,Agra Fort,5,6:00:00,18:00:00,agra
+63,Mehtab Bagh,3,6:00:00,18:00:00,agra
+64,Jama Masjid,4,7:00:00,18:00:00,agra
+65,Abbey Falls,5,9:00:00,17:00:00,coorg
+66,Talakaveri,4,6:00:00,20:30:00,coorg
+67,Namdroling Monastery,5,9:00:00,18:00:00,coorg
+68,Brahmagiri Wildlife Sanctuary,4,6:00:00,18:00:00,coorg
+69,Raja's Seat,3,6:00:00,19:00:00,coorg
+70,The Ridge,5,8:00:00,18:00:00,shimla
+71,Kufri,4,9:00:00,17:00:00,shimla
+72,Tattapani,3,0:00:00,23:59:59,shimla
+73,Green valley,4,9:00:00,18:00:00,shimla
+74,Chail palace,4,10:00:00,22:00:00,shimla
+75,Shimla Christ Church,4,8:00:00,18:00:00,shimla
+76,Jakhu Temple,4,5:00:00,21:00:00,shimla
+77,Kashi Vishwanath Temple,5,11:00:00,23:00:00,varanasi
+78,Assi ghat,4,0:00:00,23:59:59,varanasi
+79,New Vishwanath Temple,4,4:00:00,19:00:00,varanasi
+80,Durga Temple,4,5:00:00,23:00:00,varanasi
+81,Tibetan Temple,4,5:00:00,12:00:00,varanasi
+82,Dashashwamedh Ghat,4,0:00:00,23:59:59,varanasi
+83,tagore hill,4,9:00:00,17:00:00,ranchi
+84,kanke dam,4,0:00:00,23:59:59,ranchi
+85,ranchi lake,4,0:00:00,23:59:59,ranchi
+86,pahari mandir,5,4:30:00,21:30:00,ranchi
+87,fort st george,4,9:00:00,17:00:00,chennai
+88,marina beach,4,0:00:00,23:59:59,chennai
+89,government museum,4,9:30:00,16:30:00,chennai
+90,guindy national park,4,9:00:00,18:00:00,chennai
+91,santhome cathedral,5,6:00:00,21:00:00,chennai
+92,rajwada palace,4,11:00:00,21:00:00,indore
+93,central museum,3,5:00:00,20:00:00,indore
+94,lal bagh palace,4,10:00:00,17:00:00,indore
+95,annapura temple,5,5:00:00,22:00:00,indore
+96,tribal museum,5,12:00:00,20:00:00,bhopal
+97,bharat bhawan,5,14:00:00,20:00:00,bhopal
+98,upper lake,5,0:00:00,23:59:59,bhopal
+99,van vihar national park,4,6:30:00,18:00:00,bhopal
+100,gandhi setu,3,0:00:00,23:59:59,patna
+101,sanjay gandhi national park,4,5:00:00,18:00:00,patna
+102,chandani radmade sope,4,10:30:00,16:30:00,patna
+103,golghar,4,10:00:00,17:00:00,patna
+104,sabarmati ashram,5,8:30,18:30,ahmedabad
+105,sabarmati riverfront,4,9:00:00,21:00:00,ahmedabad
+106,kankaria lake,4,4:00:00,23:00:00,ahmedabad
+107,bhadra fort,4,9:00:00,17:00:00,ahmedabad
+108,anamalai tiger reserve,4,7:00:00,16:30:00,coimbatore
+109,gass forest museum,5,9:00:00,17:00:00,coimbatore
+110,monkey falls,4,7:00:00,17:00:00,coimbatore
+111,dhyanalinga,5,6:00:00,20:00:00,coimbatore
+112,bannerghatta biological park,4,9:00:00,16:00:00,bangalore
+113,cubbon park,4,6:00:00,19:00:00,bangalore
+114,bangalore palace,4,10:00:00,17:30:00,bangalore
+115,nandi temple,5,5:45:00,20:00:00,bangalore
+116,suvarna vidhana soudha,5,9:00:00,17:00:00,bangalore
+117,tannirbhavi beach,4,10:00:00,17:30:00,mangalore
+118,panambur beach,4,10:00:00,17:00:00,mangalore
+119,sultan battery,4,8:00:00,19:00:00,mangalore
+120,kadri sri majunatha temple,5,6:30:00,20:30:00,mangalore
+121,golcanda fort,4,9:00:00,17:00:00,hyderabad
+122,charminar,5,9:30:00,17:30:00,hyderabad
+123,hussain sagar,4,8:00:00,22:00:00,hyderabad
+124,ramoji film city,4,9:00:00,17:30:00,hyderabad
+125,salar jung museum,4,10:00:00,17:00:00,hyderabad
+126,amber palace,5,8:00:00,21:15:00,jaipur
+127,hawa mahal,4,9:00:00,17:00:00,jaipur
+128,jantar mantar,5,9:00:00,16:30:00,jaipur
+129,jal mahal,4,12:00:00,22:30:00,jaipur
+130,bara imambara,4,6:00:00,17:00:00,lucknow
+131,rumi darwaza,5,0:00:00,23:59:59,lucknow
+132,chota imambara,4,6:00:00,18:00:00,lucknow
+133,ambedkar memorial park,4,11:00:00,21:00:00,lucknow

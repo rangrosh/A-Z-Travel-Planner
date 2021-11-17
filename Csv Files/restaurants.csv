@@ -1,0 +1,88 @@
+restaurant_number,restaurant_name,average_user_review_restaurants,is_vegetarian,phone_number,cities_City_Name,opening_time,closing_time
+1,orchha hut ,4,y,9179443968,orchha,7:00:00,23:00:00
+2,orchha organic food ,5,n,6779443968,orchha,8:00:00,23:30:00
+3,cafe Nomads,5,y,3834823822,orchha,10:00:00,22:00:00
+4,zobby's kitchen,5,n,5942236178,nainital,17:00:00,20:00:00
+5,simz cafe ,5,y,5942235256,nainital,9:30:00,23:00:00
+6,green oak,5,y,5942524578,nainital,7:30:00,22:00:00
+7,sher-e-punjab,4,n,2256962268,khajjiar,7:00:00,22:30:00
+8,didi maggi stall,4,y,2248964778,khajjiar,10:00:00,20:00:00
+9,vashisth restaurant,5,n,2248584268,khajjiar,9:30:00,23:00:00
+10,itc sonar eden,4,y,3346873900,kolkata,8:00:00,23:30:00
+11,peter cat,2,y,3344003956,kolkata,10:30:00,22:30:00
+12,barbeque nation,4,y,3344073960,kolkata,17:00:00,20:00:00
+13,makhan fish,5,y,1835025345,amritsar,7:00:00,23:00:00
+14,ghoomar,2,n,1835046355,amritsar,9:30:00,20:00:00
+15,pizza hut,4,y,1878735593,amritsar,10:00:00,23:00:00
+16,ha la ri guest house,3,n,7085177497,cherrapunji,7:30:00,23:00:00
+17,7trep restaurant ,1,n,7086976777,cherrapunji,7:00:00,20:00:00
+18,avron restaurant,5,y,7645172577,cherrapunji,9:30:00,23:30:00
+19,yauatcha,3,n,2268606860,mumbai,17:00:00,22:30:00
+20,namak,4,y,2257366860,mumbai,8:00:00,23:00:00
+21,fifty five east,2,y,2268693260,mumbai,7:30:00,22:00:00
+22,garikipati,5,y,2437244446,ajanta ellora ,9:30:00,20:00:00
+23,mtdc upahar,3,n,2435394446,ajanta ellora ,7:00:00,22:30:00
+24,ellora,4,y,2437269246,ajanta ellora ,18:00:00,22:00:00
+25,fisherman's wharf panajim,3,n,8322464154,panaji,7:30:00,22:30:00
+26,viva panjim,2,y,8322464672,panaji,6:30:00,20:00:00
+27,kokni kanteen,5,y,8322463554,panaji,10:30:00,23:00:00
+28,ocean heritage ,1,y,4652246262,kanyakumari,9:30:00,23:30:00
+29,the curry,3,n,4657846262,kanyakumari,10:00:00,20:00:00
+30,sea view,5,y,4356246262,kanyakumari,7:00:00,20:00:00
+31,gufha,3,n,9880662828,mysore,17:00:00,23:30:00
+32,poojaris,1,y,9886837528,mysore,7:00:00,23:00:00
+33,a2b,4,n,9880663964,mysore,9:30:00,23:30:00
+34,royal ranchi hotel,5,n,8340403080,ranchi,8:00:00,23:59:00
+35,india hotel,4,y,8541088444,ranchi,10:00:00,21:00:00
+36,bhukha panda,5,n,9155816219,ranchi,9:00:00,23:15:00
+37,annalakshmi,5,y,4428368333,chennai,12:00:00,20:45:00
+38,dakshin,3,y,4424994101,chennai,12:30:00,23:15:00
+39,madras pavilion,4,n,4422200000,chennai,6:30:00,23:30:00
+40,chopstick city,2,n,7389910992,indore,12:00:00,23:30:00
+41,kasturi namkeen rajwada,5,n,7000361192,indore,10:00:00,23:00:00
+42,liitle italy,4,y,7314069216,indore,12:00:00,23:30:00
+43,arya bhawan,3,y,7554271623,bhopal,11:15:00,23:00:00
+44,taste of india,5,n,7554272290,bhopal,8:00:00,23:00:00
+45,chi kitchen,2,n,7554233342,bhopal,11:00:00,22:00:00
+46,pind balluchi,3,n,9934304634,patna,12:00:00,23:30:00
+47,bansi vihar,4,y,6122224804,patna,8:00:00,22:30:00
+48,foresto paradise,5,y,9264455504,patna,9:00:00,23:00:00
+49,rajwadu,4,y,7926643839,ahmedabad,11:00:00,12:00:00
+50,tinello,4,n,8346892923,ahmedabad,7:00:00,23:30:00
+51,swati snacks,5,y,9843972922,ahmedabad,17:00:00,23:00:00
+52,jassi de parathe,5,n,9487278902,coimbatore,7:00:00,23:30:00
+53,vishalla,5,n,9475829022,coimbatore,9:30:00,23:59:00
+54,china house,5,y,9437289482,coimbatore,8:00:00,21:00:00
+55,mrs mage,5,n,9347289029,bangalore,10:00:00,23:15:00
+56,the eatery,4,y,2948529428,bangalore,9:00:00,20:45:00
+57,the global kitchen,4,y,9472809824,bangalore,12:00:00,23:15:00
+58,toran dining hall,5,n,9847529822,mangalore,12:30:00,23:30:00
+59,momo cafe,4,n,9842872457,mangalore,6:30:00,23:30:00
+60,sasuji dining hall,2,n,4987528932,mangalore,12:00:00,23:00:00
+61,gordhan thai,4,y,5478482909,hyderabad,10:00:00,23:30:00
+62,neelkanth patang,5,y,9842787428,hyderabad,12:00:00,23:00:00
+63,atithi dining hall,2,n,9882849722,hyderabad,11:15:00,23:00:00
+64,mirch masala,4,n,9845287282,jaipur,8:00:00,22:00:00
+65,earthen oven,3,n,9188290924,jaipur,11:00:00,23:30:00
+66,bayleaf,1,y,9758963064,jaipur,12:00:00,22:30:00
+67,r kitchen,3,y,9387520222,lucknow,8:00:00,23:00:00
+68,gopi dining hall,4,y,8989560202,lucknow,9:00:00,12:00:00
+69,the square,2,n,9587290252,lucknow,11:00:00,23:30:00
+70,Barbeque Nation,4,n,4716480606,trivandrum,12:00:00,23:30:00
+71,Kaffeehaus,4,y,4714851133,trivandrum,9:00:00,23:45:00
+72,Paragon Restaurant,4,n,4712555551,trivandrum,8:00:00,23:15:00
+73,Saravana Bhavan,4,y,4865231129,munnar,7:30:00,23:30:00
+74,Al Buhari,4,n,9447278562,munnar,11:00:00,23:30:00
+75,Alibaba & 41 Dishes,4,n,8078801666,munnar,11:00:00,23:15:00
+76,Pinch Of Spice,4,n,5624045252,agra,12:00:00,23:30:00
+77,Peshwari,5,n,5624021700,agra,12:30:00,23:30:00
+78,Taj terrace,4,y,7830050001,agra,12:00:00,23:45:00
+79,Tiger Tiger,4,n,9900492800,coorg,12:30:00,23:30:00
+80,Sri Ambika Upahar,4,y,8050815762,coorg,8:00:00,23:45:00
+81,Zaffron,4,n,8272223555,coorg,7:30:00,23:30:00
+82,Himachali Rasoi,4,y,1772652386,shimla,12:00:00,23:45:00
+83,Cafe Under Tree,5,y,9218527773,shimla,9:00:00,23:45:00
+84,Guru Kripa Fast Food,4,n,1772802504,shimla,9:00:00,23:30:00
+85,Sanober Restaurant,5,n,7408576666,varanasi,12:30:00,23:15:00
+86,Niyati Cafe,5,y,9415697081,varanasi,9:00:00,23:15:00
+87,Shree Shivay,4,y,9935311449,varanasi,11:00:00,23:30:00

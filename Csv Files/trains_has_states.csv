@@ -1,0 +1,273 @@
+trains_train_id,starting_state,ending_state,train_no,train_name,duration
+1,Madhya Pradesh,Uttarakhand,12592,Gorakhpur Express,9h 35m
+2,Uttarakhand,Madhya Pradesh,15101,Jansadharan Express,9h 55m
+3,Madhya Pradesh,Himachal Pradesh,22455,Sainagar Shiridi Kalka Superfast Express,21h 2m
+4,Himachal Pradesh,Madhya Pradesh,22458,AADR-NED Superfast Express,19h 55m
+5,Madhya Pradesh,West Bengal,22911,Shipra Express,26h 40m
+6,West Bengal,Madhya Pradesh,22912,Shipra Express,26h 35m
+7,Madhya Pradesh,Punjab,12715,Sachkhand Express,16h 49m
+8,Punjab,Madhya Pradesh,11078,Jhelum Express,19h 5m
+9,Madhya Pradesh,Meghalaya,1665,HBJ Agartala Special,35h 15m
+10,Meghalaya,Madhya Pradesh,15646,GHY LTT Express,39h 50m
+11,Madhya Pradesh,Maharashtra,12533,Pushpak Express,14h 4m
+12,Maharashtra,Madhya Pradesh,12167,Ltt Bsb Superfast Express,13h 50m
+13,Madhya Pradesh,Goa,12618,Mngla Lksdp Express,22h 42m
+14,Goa,Madhya Pradesh,12617,Mangala Ldweep,22h 56m
+15,Madhya Pradesh,TamilNadu,12622,Tamil Nadu Express,23h 10m
+16,TamilNadu,Madhya Pradesh,12621,Tamil Nadu Express,22h 15m
+17,Madhya Pradesh,Karnataka,22692,Banglore Rajdhani Express,26h 14m
+18,Karnataka,Madhya Pradesh,22691,Rajdhani Express,26h 33m
+19,Madhya Pradesh,Kerala,16318,Himsagar Express,41h 20m
+20,Kerala,Madhya Pradesh,12625,Kerala Express,39h 40m
+21,Madhya Pradesh,Uttar Pradesh,12592,Gorakhpur Express,9h 35m
+22,Uttar Pradesh,Madhya Pradesh,15101,Jansadharan Express,9h 55m
+23,Madhya Pradesh,Jharkhand,12541,Gkp Ltt Superfast Express,28h 40m
+24,Jharkhand,Madhya Pradesh,12534,Pushpak Express,28h 26m
+25,Madhya Pradesh,Bihar,15102,Mumbai CSMT Express,19h 40m
+26,Bihar,Madhya Pradesh,15101,Jansadharan Express,18h 15m
+27,Madhya Pradesh,Gujarat,11464,JBP Somnath Express,13h 20m
+28,Gujarat,Madhya Pradesh,19413,Kolkata Express,24h 40m
+29,Madhya Pradesh,Telangana,12724,Telangana Express,16h 5m
+30,Telangana,Madhya Pradesh,12720,HYB JP Superfast Express,17h 35m
+31,Madhya Pradesh,Rajasthan,18243,Bsp Bgkt Express,13h 20m
+32,Rajasthan,Madhya Pradesh,14813,Jodhpur Bhopal Express,16h 20m
+33,Uttarakhand,Himachal Pradesh,13151,Jammu Tawi Express,17h 3m
+34,Himachal Pradesh,Uttarakhand,12326,Nldm Koaa Express,13h 15m
+35,Uttarakhand,West Bengal,13020,Bagh Express,30h 20m
+36,West Bengal,Uttarakhand,12369,Kumbha Express,18h 15m
+37,Uttarakhand,Punjab,14649,Surya Yamuna Express,18h 58m
+38,Punjab,Uttarakhand,13152,Sealdah Express,15h
+39,Uttarakhand,Meghalaya,12328,Upasana Express,42h 15m
+40,Meghalaya,Uttarakhand,12423,Dbrt Rajdhani Express,38h 10m
+41,Uttarakhand,Maharashtra,19020,Dehradun Express,43h 12m
+42,Maharashtra,Uttarakhand,22659,Dehradun Express,33h 25m
+43,Uttarakhand,Goa,22660,Ddn Kcvl Superfast Express,40h 3m
+44,Goa,Uttarakhand,22659,Dehradun Express,44h 32m
+45,Uttarakhand,TamilNadu,12688,Ddn Mdu Superfast Express,43h 20m
+46,TamilNadu,Uttarakhand,12687,Dehradun Express,42h 55m
+47,Uttarakhand,Karnataka,12688,Ddn Mdu Superfast Express,41h 47m
+48,Karnataka,Uttarakhand,12608,Lalbagh Express,2days 3h
+49,Uttarakhand,Kerala,22660,Ddn Kcvl Superfast Express,2days 10h
+50,Kerala,Uttarakhand,22659,Dehradun Express,2days 13h
+51,Uttarakhand,Uttar Pradesh,14266,Ddn Bsb Express,13h 35m
+52,Uttar Pradesh,Uttarakhand,12327,Upasana Express,10h 30m
+53,Uttarakhand,Jharkhand,13010,Doon Express,32h 33m
+54,Jharkhand,Uttarakhand,12366,Ranchi Patna PNBE Janshatabdi Express,33h 47m
+55,Uttarakhand,Bihar,15006,Ddn Gkp Express,18h 51m
+56,Bihar,Uttarakhand,12565,Bihar Sampark Kranti Express,19h 50m
+57,Uttarakhand,Gujarat,19566,Uttaranchal Express,25h 29m
+58,Gujarat,Uttarakhand,12479,Suryanagari SF Express,37h 25m
+59,Uttarakhand,Telangana,12688,Ddn Mdu Superfast Express,37h 16m
+60,Telangana,Uttarakhand,12687,Dehradun Express,36h
+61,Uttarakhand,Rajasthan,19566,Uttaranchal Express,13h 15m
+62,Rajasthan,Uttarakhand,19565,Uttaranchal Express,15h 45m
+63,Himachal Pradesh,West Bengal,12326,Nldm Koaa Express,35h 25m
+64,West Bengal,Himachal Pradesh,12325,Koaa Nldm Express,36h 14m
+65,Himachal Pradesh,Punjab,12920,Malwa Express,4h 23m
+66,Punjab,Himachal Pradesh,12919,Malwa Express,3h 57m
+67,Himachal Pradesh,Meghalaya,12424,Dbrt Rajdhani Express,40h 1m
+68,Meghalaya,Himachal Pradesh,12423,Dbrt Rajdhani Express,40h 8m
+69,Himachal Pradesh,Maharashtra,12952,Rajdhani Express,20h
+70,Maharashtra,Himachal Pradesh,12951,rajdhani express,20h
+71,Himachal Pradesh,Goa,12218,Kerla s kranti,35h 15m
+72,Goa,Himachal Pradesh,12217,Sampark Kranthi,35h 20m
+73,Himachal Pradesh,TamilNadu,12434,Chennai Rajdhani,42h 8m
+74,TamilNadu,Himachal Pradesh,12435,Dbrt Rajdhani Express,42h 20m
+75,Himachal Pradesh,Karnataka,12628,Karnataka Express,24hr 1m
+76,Karnataka,Himachal Pradesh,12629,Sampark Kranthi,23h 22m
+77,Himachal Pradesh,Kerala,12218,Kerla s kranti,38h 2m
+78,Kerala,Himachal Pradesh,12217,Sampark Kranthi,38h 7m
+79,Himachal Pradesh,Uttar Pradesh,15531,Shc-asr Jsadharan,10h 5m
+80,Uttar Pradesh,Himachal Pradesh,15530,Anvt Shc Jansadharan,10h 3m
+81,Himachal Pradesh,Jharkhand,12874,Jharkhand express,24h 15m
+82,Jharkhand,Himachal Pradesh,12873,Jharkhand S J E,24h 30m
+83,Himachal Pradesh,Bihar,13008,U A Toofan exp,24h 15m
+84,Bihar,Himachal Pradesh,13007,U Abhatoofan,23h 59m
+85,Himachal Pradesh,Gujarat,12215,Dee bdts G Rath,14h 32m
+86,Gujarat,Himachal Pradesh,12214,Ypr Duronto Exp,14h 28m
+87,Himachal Pradesh,Telangana,12724,Andhra Pradesh Exp,26h 40m
+88,Telangana,Himachal Pradesh,12723,Andhra Pradesh Exp,26h 25m
+89,Himachal Pradesh,Rajasthan,12414,Jammu Aii Express,13h 40m
+90,Rajasthan,Himachal Pradesh,12413,Aii Jat Express,13h 35m
+91,West Bengal,Punjab,12311,Hwh Dli Klk Mai,24h 55m
+92,Punjab,West Bengal,12312,Kalka Mail Express,24h 40m
+93,West Bengal,Meghalaya,15959,Kamrup Express,35h 35m
+94,Meghalaya,West Bengal,15960,Kamrup Express,35h 45m
+95,West Bengal,Maharashtra,12870,Hwh Cstm Express,32h 25m
+96,Maharashtra,West Bengal,12869,Howrah Superfast Express,32h 35m
+97,West Bengal,Goa,12253,Anga Express,33h 10m
+98,Goa,West Bengal,12254,Anga Express,33h 20m
+99,West Bengal,TamilNadu,12841,Coromandal Express,28h 15m
+100,TamilNadu,West Bengal,12840,Howrah Mail,28h 10m
+101,West Bengal,Karnataka,12245,Hwh Ypr Duronto,29h 45m
+102,Karnataka,West Bengal,12246,Duronto Express,29h 40m
+103,West Bengal,Kerala,22642,Shm Tvc Superfast Express,44h 55m
+104,Kerala,West Bengal,22641,Shalimar Express,44h 40m
+105,West Bengal,Uttar Pradesh,12325,Koaa Nldm Express,39h 15m
+106,Uttar Pradesh,West Bengal,12326,Nldm Koaa Express,39h 10m
+107,West Bengal,Jharkhand,12019,Shatabdi Express,7h 45m
+108,Jharkhand,West Bengal,12020,Shatabdi Express,7h 20m
+109,West Bengal,Bihar,13133,Sdah Bsb Express,14h 40m
+110,Bihar,West Bengal,13132,Anvt Koaa Express,14h 20m
+111,West Bengal,Gujarat,12906,Hwh Pbr Okhaex,43h 45m
+112,Gujarat,West Bengal,12905,Pbr Howrah Express,43h 20m
+113,West Bengal,Telangana,12514,Ghy Sc Express,46h 40m
+114,Telangana,West Bengal,12513,Sc Ghy Express,46h 20m
+115,West Bengal,Rajasthan,12496,Pratap Express,37h 15m
+116,Rajasthan,West Bengal,12495,Bkn Koaa Superfast,37h 10m
+117,Punjab,Meghalaya,15904,Cdg Dbrg Express,61h 20m
+118,Meghalaya,Punjab,15903,Dbrg Cdg Express,61h 10m
+119,Punjab,Maharashtra,12450,Goa Smprk Exp,36h 25m
+120,Maharashtra,Punjab,12449,Goa Smprk Exp,36h 46m
+121,Punjab,Goa,12450,Goa Smprk Exp,37h 10m
+122,Goa,Punjab,12449,Goa Smprk Exp,37h 28m
+123,Punjab,TamilNadu,22688,Cdg Mdu Superfast Exp,48h 5m
+124,TamilNadu,Punjab,22687,Sre-cdg Link Exp,48h 18m
+125,Punjab,Karnataka,22686,Ypr SKranti Exp,51h 5m
+126,Karnataka,Punjab,22685,Ypr SKranti Exp,51h 37m
+127,Punjab,Kerala,12218,Kerla s Kranti,35h 10m
+128,Kerala,Punjab,12217,Sampark Kranthi,35h 32m
+129,Punjab,Uttar Pradesh,12232,Cdg Lko Exp,11h 40m
+130,Uttar Pradesh,Punjab,12231,Cdg Lko Exp,11h 20m
+131,Punjab,Jharkhand,12878,Ndls Rnc G Rath,18h 40m
+132,Jharkhand,Punjab,12877,Rnc Garib Rath,18h 30m
+133,Punjab,Bihar,13008,Rnc Garib Rath,25h 49m
+134,Bihar,Punjab,13007,U Abhatoofan Exp,25h 54m
+135,Punjab,Gujarat,19718,Cdg Jp Intercity,10h 23m
+136,Gujarat,Punjab,19717,Jp Cdg Intercity,10h 42m
+137,Punjab,Telangana,22706,Hyderabad Express,36h 28m
+138,Telangana,Punjab,22705,Ludhiana Express,36h 28m
+139,Punjab,Rajasthan,19718,CDG JP Intercit,10h 55m
+140,Rajasthan,Punjab,19613,Punjab Express,10h 50m
+141,Meghalaya,Maharashtra,15646,GHY LTT Express,2d 2h
+142,Maharashtra,Meghalaya,97209,Mumbai CSMT Dombivli Express,47h 16m
+143,Meghalaya,Goa,10104,Mandovi Express,2d 9h
+144,Goa,Meghalaya,12520,Kyq Ltt Ac Express,2d 9h
+145,Meghalaya,TamilNadu,12552,Kyq Ypr Ac Express,46h 52m
+146,TamilNadu,Meghalaya,12507,Guwahati Express,47h 9m
+147,Meghalaya,Karnataka,12510,Ght Sbc Express,2d 7h
+148,Karnataka,Meghalaya,12509,Guwahati Express,2d 8h
+149,Meghalaya,Kerala,12508,SCL TVC Express,2d 17h
+150,Kerala,Meghalaya,12507,Guwahati Express,2d 16h
+151,Meghalaya,Uttar Pradesh,15910,Avadh Assam Express,33h 54m
+152,Uttar Pradesh,Meghalaya,15909,Abadh Assam Express,32h 42m
+153,Meghalaya,Jharkhand,15662,Kyq Rnc Express,28h 12m
+154,Jharkhand,Meghalaya,15661,Rnc Kyq Express,27h 54m
+155,Meghalaya,Bihar,15909,Abadh Assam Express,24h 7m
+156,Bihar,Meghalaya,15910,Avadh Assam Express,24h 15m
+157,Meghalaya,Gujarat,15636,Dwarka Express,2d 8h
+158,Gujarat,Meghalaya,15667,Kamakhya Express,2d 10h
+159,Meghalaya,Telangana,47124,HYB-LPI Express,2d 0h
+160,Telangana,Meghalaya,12514,Ghy Sc Express,47h 48m
+161,Meghalaya,Rajasthan,15632,GHY BME BKN Express,37h 42m
+162,Rajasthan,Meghalaya,15631,BME GHY Express,49h 55m
+163,Maharashtra,Goa,11085,Mao Doubledeckr Express,10h 8m
+164,Goa,Maharashtra,11086,Madgaon Mumbai LTT AC Double Decker Express,10h 59m
+165,Maharashtra,TamilNadu,11073,LTT Chennai Express,23h 35m
+166,TamilNadu,Maharashtra,11074,Chennai Ltt Express,24h 45m
+167,Maharashtra,Karnataka,11013,Coimbatore Express,23h 15m
+168,Karnataka,Maharashtra,11014,Lokmanya Tt Express,22h 30m
+169,Maharashtra,Kerala,16346,Netravathi Express,32h 15m
+170,Kerala,Maharashtra,16345,Netravathi Express,30h 45m
+171,Maharashtra,Uttar Pradesh,12107,Lucknow Superfast Express,22h 45m
+172,Uttar Pradesh,Maharashtra,12108,Ljn Ltt Express,24h 15m
+173,Maharashtra,Jharkhand,18610,Ranchi Express,39h 35m
+174,Jharkhand,Maharashtra,18609,Rnc Ltt Express,39h 0h
+175,Maharashtra,Bihar,11059,Chhapra Express,32h 55m
+176,Bihar,Maharashtra,11060,Cpr Ltt Express,34h 10m
+177,Maharashtra,Gujarat,12951,Mumbai Rajdhani Express,3h 46m
+178,Gujarat,Maharashtra,12479,Suryanagari Superfast Express,3h 20m
+179,Maharashtra,Telangana,18520,Ltt Vskp Express,13h 9m
+180,Telangana,Maharashtra,12702,Hussainsagar Express,13h 42m
+181,Maharashtra,Rajasthan,12955,Bct Jp Express,17h 50m
+182,Rajasthan,Maharashtra,12215,Dee Bdts G Rath,21h 55m
+183,Goa,TamilNadu,17312,Vsg Chennai Express,21h 15m
+184,TamilNadu,Goa,17311,Mas vasco Express,22h 12m
+185,Goa,Karnataka,17310,Ypr Biweekly Express,15h 10m
+186,Karnataka,Goa,17309,Ypr Vasco Express,15h 30m
+187,Goa,Kerala,22634,Nzm Tvc Superfast Express,19h 35m
+188,Kerala,Goa,22633,Nizamuddin Express,19h 9m
+189,Goa,Uttar Pradesh,12617,Mangala ldweep,26h 51m
+190,Uttar Pradesh,Goa,12618,Mngla lksdp Express,26h 52m
+191,Goa,Jharkhand,12741,Vsg Patna Express,35h 24m
+192,Jharkhand,Goa,12812,Hte ltt Super,33h 12m
+193,Goa,Bihar,12741,Vsg Patna Express,44h 56m
+194,Bihar,Goa,12742,Pnbe Vsg Express,44h 50m
+195,Goa,Gujarat,16312,Bikaner Express,19h 5m
+196,Gujarat,Goa,16311,Bkn Kcvl Express,16h 38m
+197,Goa,Telangana,11304,Kop Hyb Express,16h 19m
+198,Telangana,Goa,11303,Hyb Kop Express,16h 17m
+199,Goa,Rajasthan,12977,Maru Sagar Express,26h 25m
+200,Rajasthan,Goa,12978,Maru Sagar Express,26h 30m
+201,TamilNadu,Karnataka,22625,Sbc Double Deck,5h 30m
+202,Karnataka,TamilNadu,22626,Mas Double Deck,6h
+203,TamilNadu,Kerala,12623,Trivandrum Mail,16h 30m
+204,Kerala,TamilNadu,12624,Chennai Mail,16h 40m
+205,TamilNadu,Uttar Pradesh,12512,Raptisagar Express,34h 15m
+206,Uttar Pradesh,TamilNadu,12511,Rapti Sagar Express,35h 30m
+207,TamilNadu,Jharkhand,13352,Dhanbad Express,33h 25m
+208,Jharkhand,TamilNadu,13351,Dhn Alappuzha E,34h 10m
+209,TamilNadu,Bihar,12522,Raptisagar Express,41h 51m
+210,Bihar,TamilNadu,55116,Sv Cpr Passenger ,43h 25m
+211,TamilNadu,Gujarat,12656,Navajivan Express,32h 55m
+212,Gujarat,TamilNadu,12655,Navjeevan Express,32h 30m
+213,TamilNadu,Telangana,12603,Hyderabad Express,13h
+214,Telangana,TamilNadu,12604,Chennai Express,13h 5m
+215,TamilNadu,Rajasthan,22631,Madurai Bikaner Anuvrat Express,37h 35m
+216,Rajasthan,TamilNadu,12968,Jp Madras Express,38h 10m
+217,Karnataka,Kerala,16526,Kanyakumari Express,17h 25m
+218,Kerala,Karnataka,16525,Bangalore Express,18h
+219,Karnataka,Uttar Pradesh,12592,Gorakhpur Express,40h 25m
+220,Uttar Pradesh,Karnataka,22684,Lko Ypr Superfast,43h
+221,Karnataka,Jharkhand,18638,Ypr Hatia Express,39h 12m
+222,Jharkhand,Karnataka,18637,Hte Ypr Express,36h 30m
+223,Karnataka,Bihar,17316,Vlnk Vsg Express,60h 30m
+224,Bihar,Karnataka,12742,Pnbe Vsg Expres ,60h 10m
+225,Karnataka,Gujarat,16508,Jodhpur Express,33h 5m
+226,Gujarat,Karnataka,16533,Bgkt Sbc Express,38h 26m
+227,Karnataka,Telangana,22691,Rajdhani Express,14h 11m
+228,Telangana,Karnataka,12785,Bangalore Express,13h 53m
+229,Karnataka,Rajasthan,12975,Jaipur Express,41h 15m
+230,Rajasthan,Karnataka,12976,Jp Mysore Express,40h 56m
+231,Kerala,Uttar Pradesh,12512,Raptisagar Express,51h
+232,Uttar Pradesh,Kerala,12511,Rapti Sagar Express,53h
+233,Kerala,Jharkhand,64207,Lucknow Kanpur MEMU ,22h 35m
+234,Jharkhand,Kerala,13351,Dhn Alappuzha E ,54h
+235,Kerala,Bihar,16525,Bangalore Express ,80h
+236,Bihar,Kerala,12742,Pnbe Vsg Expres ,83h
+237,Kerala,Gujarat,19423,GIMB Humsafar,36h 5m
+238,Gujarat,Kerala,16333,Veraval Trivandrum VRL TVC Express,38h 5m
+239,Kerala,Telangana,17229,Sabari Express,29h 40m
+240,Telangana,Kerala,17230,Sabari Express,31h 35m
+241,Kerala,Rajasthan,22633,Nizamuddin Express,45h 35m
+242,Rajasthan,Kerala,12432,Trivndrm Rajdhani,45h 15m
+243,Uttar Pradesh,Jharkhand,12876,Neelachal Exp,16h 53m
+244,Jharkhand,Uttar Pradesh,12875,Puri New Delhi Neelachal Exp,15h 15m
+245,Uttar Pradesh,Bihar,15910,Avadh Assam Express,8h
+246,Bihar,Uttar Pradesh,12553,Vaishali Exp,7h 20m
+247,Uttar Pradesh,Gujarat,19168,Sabarmati Exp,28h 30m
+248,Gujarat,Uttar Pradesh,19167,Sabarmati Exp,28h
+249,Uttar Pradesh,Telangana,12592,Gorakhpur Express,27h 20m
+250,Telangana,Uttar Pradesh,12591,Gkp Ypr Exp,27h 38m
+251,Uttar Pradesh,Rajasthan,14853,Marudhar Exp,11h 50m
+252,Rajasthan,Uttar Pradesh,19715,Jp Ljn Exp,13h 25m
+253,Jharkhand,Bihar,15027,Maurya Exp,19h 40m
+254,Bihar,Jharkhand,15028,Maurya Exp,21h 55m 
+255,Jharkhand,Gujarat,13425,Mldt St Exp,28h 40m
+256,Gujarat,Jharkhand,13426,St Malda Town Exp,29h 10m
+257,Jharkhand,Telangana,7006,Cct Hyb Exp,25h 30m
+258,Telangana,Jharkhand,7005,Hyb Rxl Spl Exp,24h 55m
+259,Jharkhand,Rajasthan,18631,Rnc Garibnwaz Exp,30h 40m
+260,Rajasthan,Jharkhand,18632,Rnc Garib Nawaz Exp,30h 35m
+261,Bihar,Gujarat,15269,Mfp-Adi Jansadharan Exp,32h
+262,Gujarat,Bihar,15270,Adi-Mfp Jansadharan Exp,30h 35m
+263,Bihar,Telangana,12521,Rapti Sagar Express,32h 13m
+264,Telangana,Bihar,12522,Rapti Sagar Express,32h 6m
+265,Bihar,Rajasthan,15269,Mfp-Adi Jansadharan Exp,19h 35m 
+266,Rajasthan,Bihar,15270,Adi-Mfp Jansadharan Exp,19h 10m
+267,Gujarat,Telangana,17017,Rjt Sc Exp,23h 25m
+268,Telangana,Gujarat,17018,Rajkot Exp,22h 45m
+269,Gujarat,Rajasthan,12957,Swarna Jayanthi Rajdhani,9h 10m
+270,Rajasthan,Gujarat,12916,Ashram Exp,11h 5m
+271,Telangana,Rajasthan,12975,Jaipur Express,28h 5m
+272,Rajasthan,Telangana,12976,jp Mysore Express,28h 5m
