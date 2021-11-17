@@ -1,0 +1,263 @@
+body {
+  margin: 0;
+}
+
+.frame {
+	background: url('/images/background.jpg');
+}
+
+.cabs_frame {
+	background: url('/images/cab.jpg');
+}
+
+.restaurants_frame {
+	background: url('/images/restaurant.jpg');
+}
+
+.hotel_frame {
+	background: url('/images/hotel2.jpg');
+}
+
+.tourist_frame {
+	background: url('/images/tourist.jpg');
+}
+
+.train_frame {
+  background: url('/images/train.jpg');
+}
+
+.cabs_list_frame {
+	background: url('/images/cab2.jpg');
+}
+
+.restaurants_list_frame {
+	background: url('/images/restaurant2.jpg');
+}
+
+.hotel_list_frame {
+	background: url('/images/hotel.jpg');
+}
+
+.tourist_list_frame {
+	background: url('/images/tourist2.jpg');
+}
+
+.add_background {
+  background: url('/images/add_bg.jpg');
+}
+
+.frame, .cabs_frame, .restaurants_frame, .tourist_frame, .train_frame, .hotel_frame, .cabs_list_frame, .restaurants_list_frame, .hotel_list_frame, .tourist_list_frame, .train_list_frame, .add_background{
+  top: 0;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+.frame2 {
+  padding: 7% 14%;
+}
+
+.frame2_box {
+  text-align: center;
+}
+
+.main_heading {
+  margin-top: 10%;
+  font-family: 'Sacramento', cursive;
+  font-size: 10rem;
+  color: #6a097d;
+  position: relative;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.forms {
+  display: inline;
+}
+
+nav {
+  background-color: #0009;
+}
+
+nav ul li {
+  margin: 10px;
+}
+
+nav ul li:hover {
+  background-color: #343a40;
+  border-radius: 0.5rem;
+}
+
+.btn {
+  color: white;
+  padding: 0.5rem;
+}
+
+.logo {
+  height: 80px;
+  margin-left: 20px;
+}
+
+div section div img {
+  height: 80px;
+  width: 80px;
+}
+
+.icon {
+  margin-bottom: 1rem;
+}
+
+.cabs_main, .restaurants_main, .tourist_main, .train_main {
+  position: relative;
+  padding: 50px;
+  margin: 9% 35%;
+  border-radius: 1rem;
+}
+.cabs_main {
+  background-color: #ffcbcb;
+}
+
+.restaurants_main {
+  background-color: #ffd3e1;
+}
+
+.tourist_main {
+  background-color: #5fdde5;
+}
+
+.train_main {
+  background-color: #e5e5e5;
+}
+
+@media (max-width: 991.98px) {
+  .cabs_main, .restaurants_main, .tourist_main, .train_main {
+    margin: 9% 20%;
+  }
+}
+
+.btncar {
+    color: #fff;
+    background-color: #ffa299;
+    border-color: #ffa299;
+}
+
+.btncar:hover {
+    color: #fff;
+    background-color: #ad6989;
+    border-color: #ad6989;
+}
+
+.cab_div_properties, .restaurant_div_properties, .tourist_div_properties, .train_div_properties {
+    position: relative;
+    padding: 2rem 2rem;
+    margin: 2% 20%;
+    border-radius: 1rem;
+}
+
+.cab_div_properties {
+  background-color: #80bdab;
+  color: #342b38;
+}
+
+.restaurant_div_properties {
+  background-color: #feceab;
+  color: #342b38;
+}
+
+.tourist_div_properties {
+  background-color: #f4ea8e;
+  color: #342b38;
+}
+
+.train_div_properties {
+  background-color: #e5e5e5;
+  color: #342b38;
+}
+
+.list_headings {
+  font-family: 'Roboto', sans-serif;
+  position: relative;
+  text-align: center;
+  margin-top: 2rem;
+  font-size: 4rem;
+}
+
+.cab{
+  color: #1b6ca8;
+}
+
+.restaurant{
+  color: #ffd3e1;
+}
+
+.tourist {
+  color: #45046a;
+}
+
+.train {
+  color: #4f8a8b;
+}
+
+.btncar_list {
+    color: #fff;
+    background-color: #ffcd3c;
+    border-color: #ffcd3c;
+}
+
+.btncar_list:hover {
+    color: #fff;
+    background-color: #ff9234;
+    border-color: #ff9234;
+}
+
+.tourist_div {
+  text-align: center;
+  padding: 2%;
+}
+
+.toursit_images {
+  width:100%;
+  height: 100%;
+}
+
+.form-wrap {
+  padding: 1rem 2rem 2rem;
+}
+
+.error {
+  padding: 5px;
+  border: #777 dotted 1px;
+  margin-bottom: 15px;
+}
+
+.input-box {
+  padding: 0.5rem;
+  font-size: 18px;
+  width: 100%;
+  margin: 1rem 0rem 1.2rem;
+}
+
+.form-wrap {
+  position: relative;
+  border-radius: 1rem;
+  margin: 5% 25%;
+  color: #fff;
+  padding: 1rem 3rem 3rem;
+  background-color: #333;
+}
+
+.form-wrap h1,
+.form-wrap h2,
+.form-wrap p {
+  text-align: center;
+}
